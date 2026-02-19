@@ -1,7 +1,7 @@
 # Ex08-Windows-basic-commands-batchscript
 
-## Name : RAM PRASATH S
-## REG NO: 212224040266
+## Name : DHANALAKSHMI C
+## REG NO: 212225230050
 
 ## AIM:
 To execute Windows basic commands and batch scripting
