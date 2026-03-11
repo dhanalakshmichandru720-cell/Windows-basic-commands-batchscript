@@ -112,6 +112,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
+<img width="781" height="469" alt="image" src="https://github.com/user-attachments/assets/e43561a0-9511-49ec-89a0-cfdeed5ef71a" />
 
 
 
@@ -126,20 +127,16 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 ## OUTPUT
+<img width="712" height="217" alt="image" src="https://github.com/user-attachments/assets/f63b295a-8244-4df2-a119-b6343a303dfb" />
 
-<img width="583" height="165" alt="10" src="https://github.com/user-attachments/assets/d1cd5844-0d94-4761-9a90-727ae05d1b34" />
-
-
-
-Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
+s each number with the label Number:. The output should pause at the end.
 
 
 
 
 ## OUTPUT
 
-<img width="627" height="208" alt="11" src="https://github.com/user-attachments/assets/05ef6178-55e1-4a50-bc19-536271ee4ef9" />
-
+<img width="847" height="193" alt="image" src="https://github.com/user-attachments/assets/82bc0309-d746-4205-a8e7-4c396fd19d19" />
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -151,7 +148,8 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
-<img width="827" height="247" alt="12" src="https://github.com/user-attachments/assets/f43d5a99-dbc9-4949-a6a4-e119a9eadbc3" />
+<img width="729" height="225" alt="image" src="https://github.com/user-attachments/assets/57d5156f-e3a0-4369-8996-1aab3f37a88b" />
+
 
 
 Write a batch script that displays a simple menu with three options:
@@ -162,7 +160,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
-<img width="662" height="412" alt="13" src="https://github.com/user-attachments/assets/0d76467f-4e98-4c6b-be41-ea7bc647767e" />
+<img width="744" height="406" alt="image" src="https://github.com/user-attachments/assets/54dce2cf-8339-417d-a5a1-59aa0f7bef33" />
 
 
 
