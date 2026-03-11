@@ -68,7 +68,7 @@ Copy the file hello.txt into the file hello1.txt
 ```
 copy hello.txt hello1.txt
 ```
-<img width="850" height="287" alt="image" src="https://github.com/user-attachments/assets/67092ece-13f2-4a5e-af14-86314fcf3466" />
+<img width="725" height="136" alt="image" src="https://github.com/user-attachments/assets/a3a3537f-1cbf-4fa0-96ce-25d7ed545377" />
 
 
 Remove the file hello1.txt
@@ -76,7 +76,7 @@ Remove the file hello1.txt
 ```
 del hello1.txt
 ```
-<img width="673" height="194" alt="image" src="https://github.com/user-attachments/assets/d9c83680-9b3b-480a-adbd-7840d155818b" />
+<img width="516" height="81" alt="image" src="https://github.com/user-attachments/assets/9132a619-8a3b-4600-b046-912b321f6d87" />
 
 
 
